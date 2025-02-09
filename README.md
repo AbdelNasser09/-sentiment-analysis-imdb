@@ -2,17 +2,17 @@
 Sentiment analysis system for IMDb movie reviews using Logistic Regression.   Includes text preprocessing, TF-IDF feature extraction, model training, evaluation (precision, recall, F1-score), and explainability with SHAP.   Optimized for deployment on embedded systems like Arduino.  
 🎭 Sentiment Analysis of Movie Reviews
 
-📌 Project Overview
+# -📌 Project Overview
 
 This project implements a sentiment analysis system for IMDb movie reviews, classifying them as positive or negative. The model is built using Logistic Regression and includes text preprocessing, feature extraction, model training, evaluation, and deployment. Additionally, we integrate CodeCarbon to track the environmental impact of training and SHAP for model explainability.
 
-👥 Team Members
+# -👥 Team Members
 
 Abdoul Nasser Adamou Soumana
 
 Oumar Kone
 
-🏆 Features Implemented
+# -🏆 Features Implemented
 
 ✅ IMDb dataset preprocessing (text cleaning, tokenization, stopword removal)
 
