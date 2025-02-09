@@ -28,7 +28,7 @@ Oumar Kone
 
 ✅ Deployment on embedded systems (Arduino, .h file generation)
 
-📂 Project Structure
+# -📂 Project Structure
 
 📦 sentiment-analysis-imdb
  ├── 📁 data               # IMDb dataset files
@@ -72,7 +72,7 @@ Evaluate performance using accuracy, precision, recall, and F1-score.
 
 Use SHAP to explain how words influence predictions.
 
-🔍 Model Evaluation
+# -🔍 Model Evaluation
 
 Example of classification report:
 
@@ -80,7 +80,7 @@ Precision  Recall  F1-score  Support
 Positive      0.90    0.87      0.88    2500
 Negative      0.87    0.90      0.89    2500
 
-🌱 Carbon Footprint Tracking
+# -🌱 Carbon Footprint Tracking
 
 We use CodeCarbon to measure the environmental impact of training our model. The emissions data is logged for analysis.
 
@@ -94,7 +94,7 @@ bad         → Negative
 amazing     → Positive
 boring      → Negative
 
-🔧 Deployment on Embedded Systems (Arduino)
+# -🔧 Deployment on Embedded Systems (Arduino)
 
 We convert the trained model for execution on Arduino by:
 
@@ -104,11 +104,8 @@ Applying quantization to optimize performance.
 
 Generating a .h file for use in an Arduino sketch.
 
-📜 License
 
-This project is released under the MIT License.
-
-🛠 Future Improvements
+# -🛠 Future Improvements
 
 Fine-tune model hyperparameters.
 
@@ -120,5 +117,5 @@ Optimize embedded model execution for low-power devices.
 
 Special thanks to Stanford AI Lab for the IMDb dataset.
 
-🚀 Developed by Abdoul Nasser Adamou Soumana & Oumar Kone 🚀
+# -🚀 Developed by Abdoul Nasser Adamou Soumana & Oumar Kone 🚀
 
