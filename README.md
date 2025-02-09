@@ -63,5 +63,7 @@ int predict_sentiment(int features[], int num_features) {
     return score > 0 ? 1 : 0;
 }
 ```
+## [Contributeurs]
 
-
+Abdoul Nasser Adamou Soumana - Développeur principal
+Oumar Kone - Développeur principal
