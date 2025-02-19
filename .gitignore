@@ -1,0 +1,66 @@
+# Fichiers et dossiers spécifiques à PyCharm
+.idea/
+*.iml
+
+# Fichiers de cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Dossiers de virtualenv
+venv/
+env/
+.virtualenv/
+pip-wheel-metadata/
+
+# Fichiers de logs et de debug
+*.log
+
+# Fichiers de configuration de tests
+.tox/
+.nox/
+coverage.xml
+*.cover
+.hypothesis/
+
+# Fichiers de base de données et exports temporaires
+*.sqlite3
+*.db
+*.csv
+*.json
+*.xml
+
+# Fichiers de compilation
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Configurations système et environnement
+.DS_Store
+Thumbs.db
+
+# Fichiers CodeCarbon (si utilisé)
+codecarbon_output.csv
+
+# Autres fichiers temporaires
+*.swp
+*.swo
+
+# Dossier contenant le dataset (ajuste selon ton projet)
+aclImdb/
+test/
+train/
+*.txt
+*.csv
+*.tsv
+*.json
+*.xlsx
+*.zip
+*.tar.gz
+*.h5
+*.pkl
